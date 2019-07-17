@@ -31,7 +31,7 @@ $HautsDeFrance = [
     '02' => 'Aisne',
     '59' => 'Nord',
     '60' => 'Oise',
-    '60' => 'Pas-de-Calais',
+    '62' => 'Pas-de-Calais',
     '80' => 'Somme'
 ];
 // Ex 06
